@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer" width="400"/>
+</div>
 
-<!--
-**celsojunioronline/celsojunioronline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Celso Junior</h1>
+<p align="center">
+Desenvolvedor Full Stack | Especialista em Laravel, Vue.js, Painéis Admin e Soluções Digitais Personalizadas
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-CelsoJunior-blue?logo=linkedin" /></a>
+  <a href="https://destrosp.digital"><img src="https://img.shields.io/badge/Website-destrosp.digital-blue?logo=google-chrome" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor web com foco em **Laravel**, **Vue.js** e **desenvolvimento de sistemas robustos**, performáticos e fáceis de manter. Tenho experiência em criar desde sites institucionais com SEO avançado até **painéis administrativos completos**, CMSs próprios, integrações com APIs e automações que reduzem trabalho manual.
+
+Atuo com:
+- Criação de soluções personalizadas para empresas (SaaS, admin panels, portais)
+- Performance, segurança e otimização de código
+- UI/UX com foco em experiência e produtividade
+- Estratégias de marketing digital e SEO técnico
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### Linguagens & Backend
+[![My Skills](https://skillicons.dev/icons?i=php,js,python)](https://skillicons.dev)
+
+### Frameworks & Frontend
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,livewire,bootstrap,tailwind)](https://skillicons.dev)
+
+### Banco de Dados & DevOps
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,linux)](https://skillicons.dev)
+
+### Ferramentas & Produtividade
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+
+---
+
+## 🚀 Projetos em destaque
+
+- 🔧 [**Celstra**](https://github.com/seuusuario/celstra): Painel administrativo inspirado no Voyager + Filament, 100% Vue 3, modular e com foco em segurança, escalabilidade e performance.
+- 📦 [**Darkmint**](https://github.com/seuusuario/darkmint): Sistema de componentes Blade premium para Laravel, com visual moderno e estrutura totalmente customizável.
+- 🌐 [**DestroSP.Digital**](https://destrosp.digital): Site institucional com área do cliente, SEO técnico avançado, painel próprio e integração com API de serviços.
+
+> ⚠️ Muitos projetos são privados ou em produção. Entre em contato caso deseje visualizar um deles.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Contato
+
+Fique à vontade para me chamar se quiser trocar ideia, discutir uma solução, contratar um serviço personalizado ou apenas conversar sobre tecnologia!
+
+📧 celso@destrosp.digital  
+🌍 [destrosp.digital](https://destrosp.digital)
+
+---
+
