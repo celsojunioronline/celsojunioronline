@@ -29,16 +29,16 @@ Atuo com:
 ## 🧠 Habilidades Técnicas
 
 ### Linguagens & Backend
-[![My Skills](https://skillicons.dev/icons?i=php,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,nodejs,)]()
 
 ### Frameworks & Frontend
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,livewire,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,html,css)]()
 
 ### Banco de Dados & DevOps
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,windows)]()
 
 ### Ferramentas & Produtividade
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm)]()
 
 ---
 
@@ -52,13 +52,6 @@ Atuo com:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Contato
 
